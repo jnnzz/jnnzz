@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
-<h3 align="center">A passionate 2nd year IT student and an aspiring frontend developer from Philippines</h3>
+<h3 align="center">A dedicated 2nd-year IT student from the Philippines, aspiring to become a skilled frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jnnzz&label=Profile%20views&color=0e75b6&style=flat" alt="jnnzz" /> </p>
 
