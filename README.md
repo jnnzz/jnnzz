@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Jan Lorenz Laroco</h1>
+<h1 align="center">Hi 👋, I'm Jan Lorenz Laroco</h1>
 <h3 align="center">A dedicated 2nd-year IT student, aspiring to become a skilled frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jnnzz&label=Profile%20views&color=0e75b6&style=flat" alt="jnnzz" /> </p>
@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jnnzz&show_icons=true&locale=en&layout=compact" alt="jnnzz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jnnzz&show_icons=true&locale=en" alt="jnnzz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jnnzz&" alt="jnnzz" /></p>
